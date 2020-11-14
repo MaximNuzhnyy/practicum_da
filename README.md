@@ -9,7 +9,6 @@
 Библиотеки: pandas
 Метрики: DAU, WAU, MAU, ASL, Retention Rate, LTV, ROI.
 
-___
 ### customer_outflow_project
 #### Для сети фитнес-клубов проанализировал и спрогнозировал отток клиентов.
 Библиотеки: seaborn, LogisticRegression, RandomForestClassifier, linkage, dendrogram, KMeans
