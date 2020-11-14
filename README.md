@@ -13,6 +13,6 @@
 #### Для сети фитнес-клубов проанализировал и спрогнозировал отток клиентов.
 Библиотеки: seaborn, LogisticRegression, RandomForestClassifier, linkage, dendrogram, KMeans
 
-|1|2|3|
+|Проект|Описание|Библиотеки|
 |-|-|-|
-|1|2|3|
+|retail_loyalty_project|Для сети строительных магазинов проанализировал поведение покупателей, и сделал вывод по программе лояльности.|scipy, seaborn, LogisticRegression, RandomForestClassifier, GradientBoostingRegressor, linkage, dendrogram, KMeans|
