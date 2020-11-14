@@ -2,6 +2,6 @@
 
 Проект|Описание|Библиотеки
 -|-|-
-[retail_loyalty_project](https://github.com/MaximNuzhnyy/practicum_da/tree/main/customer_outflow_project)|Для сети строительных магазинов проанализировал поведение покупателей, и сделал вывод по программе лояльности.|scipy, seaborn, LogisticRegression, RandomForestClassifier, GradientBoostingRegressor, linkage, dendrogram, KMeans|
-marketing_costs_project|Для маркетингового отдела проанализировал окупаемость инвестиций в различные источники привлечения.|pandas|
-customer_outflow_project|Для сети фитнес-клубов проанализировал и спрогнозировал отток клиентов.|seaborn, LogisticRegression, RandomForestClassifier, linkage, dendrogram, KMeans
+[retail_loyalty_project](https://github.com/MaximNuzhnyy/practicum_da/tree/main/retail_loyalty_project)|Для сети строительных магазинов проанализировал поведение покупателей, и сделал вывод по программе лояльности.|scipy, seaborn, LogisticRegression, RandomForestClassifier, GradientBoostingRegressor, linkage, dendrogram, KMeans|
+[marketing_costs_project](https://github.com/MaximNuzhnyy/practicum_da/tree/main/marketing_costs_project)|Для маркетингового отдела проанализировал окупаемость инвестиций в различные источники привлечения.|pandas|
+[customer_outflow_project](https://github.com/MaximNuzhnyy/practicum_da/tree/main/customer_outflow_project)|Для сети фитнес-клубов проанализировал и спрогнозировал отток клиентов.|seaborn, LogisticRegression, RandomForestClassifier, linkage, dendrogram, KMeans
