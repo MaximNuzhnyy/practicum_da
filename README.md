@@ -12,3 +12,7 @@
 ### customer_outflow_project
 #### Для сети фитнес-клубов проанализировал и спрогнозировал отток клиентов.
 Библиотеки: seaborn, LogisticRegression, RandomForestClassifier, linkage, dendrogram, KMeans
+
+|1|2|3|
+|-|-|-|
+|1|2|3|
